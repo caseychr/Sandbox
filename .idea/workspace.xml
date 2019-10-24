@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf4761c8-59eb-4a7e-b6b3-d03ecf74b556" name="Default Changelist" comment="" />
+    <list default="true" id="cf4761c8-59eb-4a7e-b6b3-d03ecf74b556" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Extensions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sandbox/Barrel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sandbox/Barrel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sandbox/META-INF/Sandbox.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sandbox/META-INF/Sandbox.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sandbox/VarianceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sandbox/VarianceKt.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RcyUZKQ5OZRy3hyigNhpqMVrIS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -31,7 +41,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.VarianceKt">
+  <component name="RunManager" selected="Kotlin.ExtensionsKt">
+    <configuration name="ExtensionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Sandbox" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ExtensionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GenericsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Sandbox" />
       <option name="VM_PARAMETERS" />
@@ -40,19 +63,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="GenericsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Sandbox" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="HelloKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExtensionsKt" />
         <item itemvalue="Kotlin.VarianceKt" />
         <item itemvalue="Kotlin.GenericsKt" />
         <item itemvalue="Kotlin.SimVillageKt" />
         <item itemvalue="Kotlin.TypeIntroKt" />
-        <item itemvalue="Kotlin.HelloKt" />
       </list>
     </recent_temporary>
   </component>
@@ -119,5 +129,18 @@
       <updated>1569980694353</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
